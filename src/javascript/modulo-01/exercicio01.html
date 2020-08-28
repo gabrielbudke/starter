@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Javscript | Exercicio 01</title>
+</head>
+<body>
+   
+   <script>
+
+      function showAddress(address) {
+         console.log(`O usuário mora em ${address.cidade} / ${address.uf}, no bairro ${address.bairro}, na rua "${address.rua}" com nº {1293}.`); 
+      }
+
+      const address = { 
+         rua: "Rua dos pinheiros",
+         numero: 1293,
+         bairro: "Centro",
+         cidade: "São Paulo",
+         uf: "SP"
+      };
+
+      showAddress(address);
+        
+   </script>
+</body>
+</html>
