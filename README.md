@@ -9,7 +9,7 @@
 <p align="center" >  
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/gabrielbudke/starter?color=202024&style=flat-square">
 
-  <img alt="Made by Gabriel B Sousa" src="https://img.shields.io/static/v1?label=made by&message=Gabriel Sousa&color=202024&style=flat-square">  
+  <img alt="Made by Gabriel B Sousa" src="https://img.shields.io/static/v1?label=made%20by&message=Gabriel%20Sousa&color=202024&style=flat-square">  
 </p>
 
 <p align="center">
