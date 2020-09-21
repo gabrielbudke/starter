@@ -22,7 +22,6 @@ Crie um botão que ao ser clicado cria um novo elemento em tela com a forma de u
 vermelho com 100px de altura e largura. Sempre que o botão for clicado um novo quadrado deve
 aparecer na tela.
 
----
 ## :pencil: 2º Exercício
 
 Utilizando o resultado do primeiro desafio, toda vez que o usuário passar o mouse por cima de
@@ -43,7 +42,6 @@ function getRandomColor() {
 const newColor = getRandomColor(); // Ex: #E943F0
 ```
 
----
 ## :pencil: 3º Exercício
 
 A partir do seguinte vetor:
@@ -56,11 +54,8 @@ Preencha uma lista (`<ul>`) no HTML com os itens da seguinte forma:
 - Gabriel
 - Lucas
 
----
 ## :pencil: 4º Exercício
 
-
----
 ## :pencil: 5º Exercício
 
 

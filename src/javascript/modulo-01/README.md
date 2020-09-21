@@ -34,7 +34,7 @@ Retorne o seguinte conteúdo:
 O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" com
 nº 1293.
 ```
----
+
 ## :pencil: 2º Exercício
 
 Crie uma função que dado um intervalo (entre x e y) exiba todos número pares:
@@ -45,7 +45,7 @@ function pares(x, y) {
 }
 pares(32, 321);
 ```
----
+
 ## :pencil: 3º Exercício
 
 Escreva uma função que verifique se o vetor de habilidades passado possui a habilidade "Javascript"
@@ -60,7 +60,7 @@ const skills = ["Javascript", "ReactJS", "React Native"];
 haveSkill(skills); // true ou false
 
 ```
----
+
 ## :pencil: 4º Exercício
 
 Escreva uma função que dado um total de anos de estudo retorna o quão experiente o usuário é:
@@ -78,7 +78,7 @@ experiencia(anosEstudo);
 // De 7 acima: Jedi Master
 
 ```
----
+
 ## :pencil: 5º Exercício
 
 Dado o seguinte vetor de objetos:
