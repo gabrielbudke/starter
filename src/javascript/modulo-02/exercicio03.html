@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Javascript | Exercicio 03</title>
+</head>
+<body>
+   <div class="container">
+      <ul class="ul-element">
+      
+      </ul>   
+   </div>
+   <script>
+   
+      const names = ['Diego', 'Gabriel', 'Lucas'];
+
+      const ulElement = document.querySelector('.ul-element');
+
+      for(name of names) {
+
+         const text = document.createTextNode(name);
+         const liElement = document.createElement('li');
+         
+         liElement.setAttribute('id', `${name}`);         
+         liElement.appendChild(text);
+         
+         ulElement.appendChild(liElement);
+
+      }
+
+   </script>
+</body>
+</html>

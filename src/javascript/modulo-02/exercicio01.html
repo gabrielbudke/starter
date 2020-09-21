@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Javascript | Exercicio 01</title>
+</head>
+<body>
+   <div class="container">
+      <button class="add-element">Adicionar elemento</button>      
+   </div>
+
+   <script>
+   
+      const containerElement = document.querySelector('.container');        
+      const addButtonElement = document.querySelector('.add-element');
+      
+      let id = 0;
+      addButtonElement.onclick = function () {
+
+         const boxElement = document.createElement('div');
+         
+         boxElement.setAttribute('id', `box-${id++}`);         
+         boxElement.style.margin = '10px';
+         boxElement.style.width = '100px';
+         boxElement.style.height = '100px';
+         boxElement.style.backgroundColor = '#f00';
+
+         containerElement.appendChild(boxElement);
+         
+      }            
+   
+   </script>
+</body>
+</html>

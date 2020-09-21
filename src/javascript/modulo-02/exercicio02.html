@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Javascript | Exercicio 02</title>
+</head>
+<body>
+   <div class="container">
+      <button class="add-element">Adicionar elemento</button>     
+   
+   </div>
+
+   <script>
+      const containerElement = document.querySelector('div[class=container]');
+      const addButtonElement = document.querySelector('button[class=add-element]');      
+
+      addButtonElement.onclick = function() {       
+         let boxId = 0;           
+         const boxElement = document.createElement('div');
+         
+         boxElement.setAttribute('id', `boxId-${boxId++}`);
+         boxElement.style.margin = '10px';
+         boxElement.style.width = '100px';
+         boxElement.style.height = '100px';
+         boxElement.style.backgroundColor = '#f00';
+         
+         boxElement.onmouseover = function() {
+            boxElement.style.backgroundColor = getRandomColor();
+         };
+
+         containerElement.appendChild(boxElement);
+      }
+
+      function getRandomColor() {
+         const letters = '0123456789ABCDEF';
+         
+         let color = '#';
+         for(let i = 0; i < 6; i++) {
+            color += letters[Math.floor(Math.random() * 16)]
+         }         
+
+         return color;
+      }
+   
+   
+   </script>   
+</body>
+</html>
