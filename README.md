@@ -1,5 +1,6 @@
 <div align="center">
-   <img src=".github/images/starter.png" alt="Starter" width="150px">   
+   <img src=".github/images/starter@logo.png" alt="Starter" width="100px">
+   <h1>Starter</h1>         
 </div>
 
 <h3 align="center">
@@ -14,7 +15,7 @@
 
 <p align="center">
   <a href="#pushpin-info">Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#">Módulos</a>  
+  <a href="#open_file_folder-modulos">Módulos</a>  
 </p>
 
 ## :pushpin: Info
@@ -22,5 +23,8 @@
 Este respositório é destinado a estudo de JS, NodeJS, ReactJS e Reactive Native. 
 Contém códigos com objetivo didático.
 
+## :open_file_folder: Módulos
+
+- Javascript
 ---
 Made by Gabriel Sousa
