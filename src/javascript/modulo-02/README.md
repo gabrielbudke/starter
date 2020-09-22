@@ -66,3 +66,6 @@ Ao clicar no botão, a função `adicionar()` deve ser disparada adicionando um 
 nomes baseado no nome preenchido no input e renderizando o novo item em tela juntos aos
 demais itens anteriores. Além disso, o conteúdo do input deve ser apagado após o clique.
 
+---
+Made by Gabriel Sousa
+

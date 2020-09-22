@@ -101,4 +101,5 @@ Escreva uma função que produza o seguinte resultado:
 O Diego possui as habilidades: Javascript, ReactJS, Redux
 O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir
 ```
-
+---
+Made by Gabriel Sousa
