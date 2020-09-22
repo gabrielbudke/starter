@@ -24,8 +24,7 @@
 
 ## :pushpin: Info
 
-Este respositório é destinado a estudo de JS, NodeJS, ReactJS e Reactive Native. 
-Contém códigos com objetivo didático.
+Este respositório é destinado a estudo de Javascript. Contém código com objetivo didático.
 
 ## :open_file_folder: Módulos
 
