@@ -1,6 +1,5 @@
 <div align="center">
-   <img src=".github/images/starter@logo.png" alt="Starter" width="100px">
-   <h1>Starter</h1>         
+   <img src=".github/images/Starter.png" alt="Starter">   
 </div>
 
 <h3 align="center">
