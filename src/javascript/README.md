@@ -28,8 +28,8 @@ Este respositório é destinado a estudo de Javascript. Contém código com obje
 
 ## :open_file_folder: Módulos
 
-- [1° Módulo: Introdução Javascript]()
-- [2° Módulo: Manipulando a DOM (Árvore de Elementos HTML)]()
+- [1° Módulo: Introdução Javascript](https://github.com/gabrielbudke/starter/tree/master/src/javascript/modulo-01)
+- [2° Módulo: Manipulando a DOM (Árvore de Elementos HTML)](https://github.com/gabrielbudke/starter/tree/master/src/javascript/modulo-02)
 
 
 
