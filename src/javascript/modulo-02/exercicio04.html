@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Javascript | Exercicio 04</title>
+</head>
+<body>
+   <div class="container">
+
+      <div class="form-container">
+         <input type="text" class="name">
+         <button onclick="adicionar()">Adicionar</button>      
+      </div>
+
+      <ul></ul>   
+   </div>
+
+   <script>
+      const names = ['Diego', 'Gabriel', 'Lucas'];
+
+      const inputElement = document.querySelector('input');
+      const ulElement = document.querySelector('ul');
+            
+      for(name of names) {
+         const textName = document.createTextNode(name);
+         const liElement = document.createElement('li');
+         liElement.setAttribute('id', `${name}`);
+         liElement.appendChild(textName);
+
+         ulElement.appendChild(liElement);
+      }
+
+
+      function adicionar() {
+         const inputElement = document.querySelector('input');
+         const inputTextValue = document.createTextNode(inputElement.value);
+
+         const liElement = document.createElement('li');
+         liElement.setAttribute('id', `${name}`);
+         liElement.appendChild(inputTextValue);
+         
+         ulElement.appendChild(liElement);
+         
+         inputElement.value = "";
+      }
+   
+   </script>
+</body>
+</html>

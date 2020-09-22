@@ -7,7 +7,7 @@
 </h2>
 
 <h3 align="center">
-  Exercicíos de Javascript do curso Starter da Rocketseat  :rocket:
+  Introdução Javascript
 </h3>
 
 <p align="center" >    
