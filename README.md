@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="#pushpin-info">Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#open_file_folder-modulos">Módulos</a>  
+  <a href="#open_file_folder-conteudos">Conteúdos</a>  
 </p>
 
 ## :pushpin: Info
@@ -25,8 +25,8 @@
 Este respositório é destinado a estudo de JS, NodeJS, ReactJS e Reactive Native. 
 Contém códigos com objetivo didático.
 
-## :open_file_folder: Módulos
+## :open_file_folder: Conteúdos
 
-- Javascript
+- [Javascript](https://github.com/gabrielbudke/starter/tree/master/src/javascript)
 ---
 Made by Gabriel Sousa

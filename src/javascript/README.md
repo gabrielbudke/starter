@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="../../../.github/images/js.png" width="150px">   
+   <img src="../../.github/images/js.png" width="150px">   
 </div>
 
 <h2 align="center">
@@ -15,6 +15,22 @@
 
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/gabrielbudke/starter?color=202024&style=flat-square">
 </p>
+
+<p align="center">
+  <a href="#pushpin-info">Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#open_file_folder-modulos">Módulos</a>  
+</p>
+
+
+## :pushpin: Info
+
+Este respositório é destinado a estudo de JS, NodeJS, ReactJS e Reactive Native. 
+Contém códigos com objetivo didático.
+
+## :open_file_folder: Módulos
+
+- [1° Módulo: Introdução Javascript]()
+- [2° Módulo: Manipulando a DOM (Árvore de Elementos HTML)]()
 
 
 
