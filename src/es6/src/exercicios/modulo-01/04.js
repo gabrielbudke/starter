@@ -16,4 +16,3 @@ function mostraInfo({ nome, idade }) {
 }
 
 console.log('[04][4.2]', mostraInfo({ nome: 'Gabriel', idade: 21 }));
-

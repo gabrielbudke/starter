@@ -7,4 +7,4 @@ const usuario = {
    cidade: 'Rio do Sul',
 };
 
-console.log('[07][Object Short Syntax]', usuario);
+console.log('[modulo-01][07][Object Short Syntax]', usuario);
