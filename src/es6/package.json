@@ -3,14 +3,18 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "@babel/cli": "^7.12.1",
     "@babel/core": "^7.12.3",
     "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
-    "@babel/preset-env": "^7.12.1"
+    "@babel/preset-env": "^7.12.1",
+    "babel-loader": "^8.2.1",
+    "webpack": "4.32.2",
+    "webpack-cli": "3.3.2",
+    "webpack-dev-server": "^3.11.0"
   },
   "scripts": {
-    "dev": "babel modulo-01/main.js -o modulo-01/bundle.js -w",
+    "dev": "webpack-dev-server --mode=development",
     "01": "babel modulo-01/exercicio-01/01.js -o modulo-01/exercicio-01/bundle-01.js",
     "02": "babel modulo-01/exercicio-02/02.js -o modulo-01/exercicio-02/bundle-02.js",
     "03": "babel modulo-01/exercicio-03/03.js -o modulo-01/exercicio-03/bundle-03.js",

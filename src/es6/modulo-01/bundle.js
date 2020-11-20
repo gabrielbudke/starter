@@ -1,2 +1,0 @@
-// Estudo
-"use strict";
