@@ -2,5 +2,8 @@
    // Entende qual o ambiente que estamos trabalhando e 
    // converte as features para o que o navegador entende
    "presets": ["@babel/preset-env"],
-   "plugins": ["@babel/plugin-proposal-object-rest-spread"]
+   "plugins": [
+      "@babel/plugin-proposal-object-rest-spread",
+      "@babel/plugin-transform-async-to-generator"
+   ]
 }

@@ -7,6 +7,8 @@
     "@babel/cli": "^7.12.1",
     "@babel/core": "^7.12.3",
     "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
+    "@babel/plugin-transform-async-to-generator": "^7.12.1",
+    "@babel/polyfill": "^7.12.1",
     "@babel/preset-env": "^7.12.1",
     "babel-loader": "^8.2.1",
     "webpack": "4.32.2",
@@ -22,5 +24,8 @@
     "05": "babel modulo-01/exercicio-05/05.js -o modulo-01/exercicio-05/bundle-05.js",
     "06": "babel modulo-01/exercicio-06/06.js -o modulo-01/exercicio-06/bundle-06.js",
     "07": "babel modulo-01/exercicio-07/07.js -o modulo-01/exercicio-07/bundle-07.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.0"
   }
 }
