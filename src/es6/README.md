@@ -1,5 +1,5 @@
 <div align="center">
-      <img src="../../.github/images/es6.png" width="150px">
+   <img src="../../.github/images/es6.png" width="180px" height="150px">    
 </div>
 
 <h2 align="center">
@@ -7,7 +7,7 @@
 </h2>
 
 <h3 align="center">
-  :rocket: Exercicíos de ES6 (ECMAScript) do curso Starter da Rocketseat  
+  :rocket: Exercicíos de ES6+ (ECMAScript+) do curso Starter da Rocketseat  
 </h3>
 
 <p align="center" >    
@@ -18,17 +18,26 @@
 
 <p align="center">
   <a href="#pushpin-info">Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#open_file_folder-modulos">Módulos</a>  
+  <a href="#open_file_folder-modulos">Módulos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#rocket-tecnologias">Tecnologias</a>
 </p>
 
 
 ## :pushpin: Info
 
-Este respositório é destinado a estudo do ES6(ECMAScript). Contém código com objetivo didático.
+Este respositório é destinado a estudo do ES6+ (ECMAScript+). Contém código com objetivo didático.
 
 ## :open_file_folder: Módulos
 
-- [1° Módulo: Conceitos](https://github.com/gabrielbudke/starter/tree/master/src/es6/modulo-01)
+- [1° Módulo: Conceitos](https://github.com/gabrielbudke/starter/tree/master/src/es6/src/exercicios/modulo-01)
+- [2° Módulo: Webpack Server](https://github.com/gabrielbudke/starter/tree/master/src/es6/src/exercicios/modulo-02)
+- [3° Módulo: Async/Await](https://github.com/gabrielbudke/starter/tree/master/src/es6/src/exercicios/modulo-03)
+- [Aplicação com ES6+ no Stackblitz](https://aplicacao-es6.stackblitz.io)
 
+## :rocket: Tecnologias
+
+- [Babel](https://babeljs.io/)
+- [Webpack](https://webpack.js.org/)
+- [Axios](https://github.com/axios/axios)
 ---
 Made by Gabriel Sousa

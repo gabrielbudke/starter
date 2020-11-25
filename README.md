@@ -27,5 +27,7 @@ Contém códigos com objetivo didático.
 ## :open_file_folder: Conteúdos
 
 - [Javascript](https://github.com/gabrielbudke/starter/tree/master/src/javascript)
+- [ECMAScript+](https://github.com/gabrielbudke/starter/tree/master/src/es6)
+
 ---
 Made by Gabriel Sousa
