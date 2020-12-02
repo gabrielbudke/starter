@@ -1,13 +1,14 @@
 <div align="center">
-   <img src="https://cdn2.iconfinder.com/data/icons/nodejs-1/512/nodejs-512.png" width="180px">    
+   <img src="https://cdn2.iconfinder.com/data/icons/nodejs-1/256/nodejs-256.png" width="150px">   
+   <img src="https://img.icons8.com/color/452/mongodb.png" width="150px">   
 </div>
 
 <h2 align="center">
-  NodeJS
+  Node.js
 </h2>
 
 <h3 align="center">
-  :rocket: Exercicíos de NodeJS do curso Starter da Rocketseat  
+  Conceitualização e Construção de uma API Rest com Node.js e MongoDB :rocket:
 </h3>
 
 <p align="center" >    
@@ -18,17 +19,21 @@
 
 <p align="center">
   <a href="#pushpin-info">Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#open_file_folder-modulos">Módulos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#rocket-tecnologias">Tecnologias</a>
 </p>
 
 
 ## :pushpin: Info
 
-Este respositório é destinado a estudo do NodeJS. Contém código com objetivo didático.
+Este respositório é destinado a estudo de Node.js e construção de APIs com MongoDB. Contém código com objetivo didático.
 
-## :rocket: Tecnologias
-
+## :rocket: Módulos
+- [Node.js](https://nodejs.org/en/)
+- [MongoDB Altas](https://www.mongodb.com/cloud/atlas)
+- [Mongoose](https://mongoosejs.com/)
 
 ---
 Made by Gabriel Sousa
+
+
+
